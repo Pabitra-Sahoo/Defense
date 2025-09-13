@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap");
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.nav {
+  height: 50px;
+  width: 100%;
+  background-color: #881717;
+  position: fixed;
+  top: px;
+}
+#nav2 a{
+  font-family: "Bitcount Grid Double", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 40px;
+  position: absolute;
+  left: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.container {
+  height: 100px;
+  background-color: white;
+  width: 150px;
+  position: relative;
+}
+.circle {
+  height: 50px;
+  background-color: rgb(255, 0, 0);
+  width: 50px;
+  border-radius: 100px;
+  position: absolute;
+  left: 50px;
+  bottom: 28px;
+}
+.flag {
+  height: 100px;
+  background-color: rgb(3, 47, 70);
+  width: 150px;
+  position: relative;
+}
+#p1,
+#p2 {
+  position: absolute;
+  background-color: yellow;
+}
+#p1 {
+  top: 40px;
+  height: 20px;
+  width: 150px;
+}
+#p2 {
+  height: 100px;
+  width: 20px;
+  left: 40px;
+}
+#homework {
+  position: relative;
+  height: 100px;
+  width: 150px;
+  background-color: rgb(14, 3, 67);
+}
+
+#h1,
+#h2 {
+  position: absolute;
+  height: 22px;
+  width: 150px;
+  background-color: #f70101;
+}
+#h2 {
+  top: 78px;
+}
+#h3 {
+  position: absolute;
+  height: 48px;
+  width: 48px;
+  background-color: #fff;
+  border-radius: 100px;
+  left: 50px;
+  top: 26px;
+}
+
+#l1,
+#l2,
+#l3 {
+  position: absolute;
+}
+#l1,
+#l2,
+#l3 {
+  top: 100px;
+  color: aqua;
+  left: 50px;
+}
+
+#lnk1{
+  position: absolute;
+  
+  left: 1000px!important;
+  right: 20px;
+}

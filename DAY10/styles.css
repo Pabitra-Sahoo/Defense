@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.bg {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.form2 {
+  height: 400px;
+  width: 400px;
+}
+
+.form2 {
+  background-color: #a98f8f;
+  border-radius: 20px;
+}
+
+.form2 h2 {
+  text-align: center;
+  font-family: "Tagesschrift", system-ui;
+  font-weight: bolder;
+  padding-top: 20px;
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+label,
+button {
+  font-family: "Tagesschrift", system-ui;
+  font-size: 20px;
+}
+.fdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  height: 30px;
+  width: 190px;
+  margin-top: 30px;
+  border-radius: 30px;
+  cursor: pointer;
+  margin-left: 60px;
+  background-color: #c09191;
+}
+input {
+  margin-top: 6px;
+  height: 30px;
+  border-radius: 30px;
+  width: 300px;
+  margin-bottom: 7px;
+  background-color: #877474;
+  font-size: large;
+  font-family: "Tagesschrift", system-ui;
+  padding-left: 10px;
+}
+footer{
+    font-family: "Tagesschrift", system-ui;
+}
