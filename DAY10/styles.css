@@ -65,5 +65,10 @@ input {
   padding-left: 10px;
 }
 footer{
-    font-family: "Tagesschrift", system-ui;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+footer a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
 }
